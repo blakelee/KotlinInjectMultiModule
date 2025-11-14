@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=KotlinInjectMultiModule
+PRODUCT_BUNDLE_IDENTIFIER=com.hostly.inject.KotlinInjectMultiModule$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
